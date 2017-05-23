@@ -15,6 +15,6 @@ public class ParisJamApplication {
 
 	@GetMapping("/")
 	public String home(){
-		return "Hello Paris JAM 1";
+		return "Hello Paris JAM 2";
 	}
 }
