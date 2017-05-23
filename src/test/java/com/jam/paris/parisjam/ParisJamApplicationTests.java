@@ -11,6 +11,8 @@ public class ParisJamApplicationTests {
 
 	/**
 	 * FIXME
+	 *
+	 * TODO do the fix
 	 */
 	@Test
 	public void contextLoads() {
